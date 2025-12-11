@@ -1,0 +1,50 @@
+# 📊 Credit Card Usage Segmentation (Capstone Project)
+
+## 📌 Project Overview
+This project aims to segment credit card customers based on their spending patterns and financial behavior.  
+Using **EDA**, **Feature Engineering**, **PCA**, and **K-Means Clustering**, meaningful customer groups were created to help banks improve marketing strategies and customer understanding.
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-Learn  
+- PCA for dimensionality reduction  
+- K-Means for clustering
+
+---
+
+## 🔍 Steps Performed in the Project
+
+### **1. Data Preprocessing**
+- Missing value handling  
+- Outlier treatment (capping)  
+- Feature scaling  
+
+### **2. Feature Engineering**
+- Credit Utilization Ratio  
+- Payment behavior metrics  
+- Spending pattern indicators  
+
+### **3. Dimensionality Reduction (PCA)**
+- Selected optimal number of components  
+- Retained maximum variance  
+
+### **4. Clustering**
+- Applied K-Means  
+- Used Elbow Method & Silhouette Score  
+- Analyzed cluster behavior  
+
+---
+
+## 🎯 Business Insights
+- Identify high-value customer groups  
+- Create targeted marketing campaigns  
+- Better credit limit allocation  
+- Improve customer retention strategies  
+
+---
+
+## 📂 Project Structure
